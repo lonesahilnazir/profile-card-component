@@ -13,13 +13,6 @@ body{
     justify-content: center;
     align-items: center;
 }
-/*@media (max-width: 1000px){
-    body {
-        background-position: -80% 50%, 125% -150%;
-    }
-}*/
-
-
 .card{
     background-color: #fff;
     position: absolute;
@@ -76,9 +69,6 @@ body{
     BOX-SHADOW: 0 -0.4px hsl(0deg 0% 59%);
 }
 
-.followers{}
-.likes{}
-.photos{}
 .bold-text{
     font-weight: 700;
     color: #2d3248;
